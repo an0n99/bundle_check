@@ -2,7 +2,7 @@ import cloudscraper
 from datetime import datetime, timedelta
 
 # Constants
-OWNER_ADDRESS = "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P"  
+OWNER_ADDRESS = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"  
 LIMIT = 100  
 TIME_WINDOW_MINUTES = 5  
 
